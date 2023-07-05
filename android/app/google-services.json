@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "896483669998",
+    "project_id": "divisorianijuanmainx",
+    "storage_bucket": "divisorianijuanmainx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896483669998:android:318ed2974a666e3d1a80ff",
+        "android_client_info": {
+          "package_name": "com.example.divisorianijuanmain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896483669998-s036crdhamsjo94nf3tm29kpv0523e2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.divisorianijuanmain",
+            "certificate_hash": "7853bae29a378bd96c77f556b5d07376d52ced4d"
+          }
+        },
+        {
+          "client_id": "896483669998-9b25l7mqr01uu36atuitrl5tb8regdko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlujAhSi07ApTj-vuRwHZYQg-S42pm4Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896483669998-9b25l7mqr01uu36atuitrl5tb8regdko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

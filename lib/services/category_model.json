@@ -1,0 +1,84 @@
+{
+    "categories" : [
+        {
+            "name": "Women Clothing",
+            "subcategory": [
+                "Wedding & Event",
+                "Tops & Sets",
+                "Watches"
+            ]
+        },
+        {
+            "name": "Men Clothing",
+            "subcategory": [
+                "Outwear & Jackets",
+                "Formal Dress",
+                "Accessories"
+            ]
+            
+        },
+        {
+            "name": "Computer & Accessories",
+            "subcategory": [
+                "Hardware Parts",
+                "Software CD",
+                "Miscallenous"
+            ]
+            
+        },
+        {
+            "name": "Automobile",
+            "subcategory": [
+                "Tires & Tools",
+                "Maintenance Care",
+                "Car Accessories"
+            ]
+            
+        },
+        {
+            "name": "Kids toys",
+            "subcategory": [
+                "Helicopter toy",
+                "RC toys",
+                "Board toys"
+            ]
+            
+        },
+        {
+            "name": "Sports",
+            "subcategory": [
+                "Sport Accessories",
+                "Sport Outfits",
+                "Sport Shoes"
+            ]
+            
+        },
+        {
+            "name": "Jewelry",
+            "subcategory": [
+                "Earring",
+                "Ring",
+                "Hand Cuffs"
+            ]
+            
+        },
+        {
+            "name": "Cellphone and tablets",
+            "subcategory": [
+                "Gadget Accessories",
+                "Gaming Phone",
+                "New Phone"
+            ]
+            
+        },
+        {
+            "name": "Furniture",
+            "subcategory": [
+                "Modern Furniture",
+                "Contemporary Furniture",
+                "Traditional Furniture"
+            ]
+            
+        }
+    ]
+}
