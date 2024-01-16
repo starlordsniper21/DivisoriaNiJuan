@@ -23,7 +23,7 @@ Embark on your shopping journey with Divisoria Ni Juan by following these simple
 bash
 Copy code
 # Clone the repository
-git clone https://github.com/your-username/DivisoriaNiJuan.git
+git clone https://github.com/starlordsniper21/DivisoriaNiJuan.git
 
 # Set up the Flutter project
 # Build and deploy the app to your Android device
